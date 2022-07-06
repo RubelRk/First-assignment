@@ -41,4 +41,63 @@ body{
 
 
 
-/*Section  Start*/
+/*Section Donate Today Start*/
+
+
+
+.donate-text{
+    text-align: center;
+}
+.donate-text h1{
+    font-size: 30px;
+    font-weight: bold;
+}
+.donate-text p{
+    color: gray;
+}
+
+.donate-amount{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+
+}
+.donate-box{
+    padding-top: 20px;
+    margin-left: 20px ;
+    width: 100px;
+    height: 80px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, .03);
+}
+.donate-ok{
+    padding-top: 20px;
+    margin-left: 20px ;
+    width: 100px;
+    height: 80px;
+    text-align: center;
+    background-color: rgba(247, 7, 7, 0.113);
+    color: red;
+    border: 1px solid red;
+}
+
+.donate-other{
+    text-align: center;
+    margin-bottom: 150px;
+}
+.donate-other p{
+    color: gray;
+}
+.other-boder{
+    width: 600px;
+    margin-bottom: 30px;
+    color: rgba(126, 123, 123, 0.001);
+}
+
+/*Section Donate Today End*/
+
+
+
+/*Section Our Donate Plan Start*/
+
+
