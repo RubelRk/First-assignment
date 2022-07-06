@@ -1,3 +1,44 @@
 body{
     width: 1450px;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
+
+/*Section Header Start*/
+
+.section-header{
+    margin-bottom: 120px;
+
+}
+.header-area{
+    background-image: url(images/background-1.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 600px;
+
+
+}
+.header-text{
+    padding-top: 150px;
+    text-align: center;
+    color: white;
+}
+.header-text h1{
+    font-size: 45px;
+    font-weight: 700;
+}
+.header-text p{
+    margin-bottom: 30px;
+}
+.Home-Button{
+    padding: 10px 20px;
+    background-color:orangered ;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+/*Section Header End*/
+
+
+
+/*Section  Start*/
