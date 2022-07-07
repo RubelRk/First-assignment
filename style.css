@@ -145,3 +145,59 @@ background-color: rgba(116, 231, 193, 0.167);
 
 /*Section lives depend Start*/
 
+.lives-depend{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 90px;
+}
+.lives-depend-text{
+    width: 35%;
+}
+.lives-depend-text h1{
+   font-size: 30px;
+   font-weight: bold;
+}
+.lives-depend-text p{
+ color: gray;
+ margin-bottom: 50px;
+ }
+.lives-depend-img img{
+    width:400px;
+    height: 500px;
+    margin-left: 80px;
+}
+/*Section lives depend End*/
+
+
+/*Section need us Start*/
+.need-us{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 90px;
+}
+.need-us-img img{
+    width:450px;
+    height: 500px;
+    margin-left: 10px;
+    margin-right: 80px;
+}
+.need-us-text{
+    width: 35%;
+
+}
+.need-us-text h1{
+    font-size: 30px;
+   font-weight: bold;
+}
+.need-us-text p{
+    color: gray;
+    margin-bottom: 50px;
+
+}
+
+/*Section need us End*/
+
+
+/*Section Updates Start*/
