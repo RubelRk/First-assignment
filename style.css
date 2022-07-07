@@ -202,3 +202,48 @@ background-color: rgba(116, 231, 193, 0.167);
 
 
 /*Section Updates Start*/
+
+
+.updates-text{
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+.updates-text h1{
+    font-size: 30px;
+    font-weight: bold;
+}
+.updates-text p{
+    color: gray;
+}
+.form-area{
+    background-color: rgba(244, 213, 11, 0.293);
+    width: 650px;
+    height: 150px;
+    margin-left: 30%;
+    margin-bottom: 100px;
+    
+}
+
+form{
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+form a{
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    padding: 8px 20px;
+    border-radius: 3%;
+}
+ 
+form input{
+    padding: 10px 35px;
+   background-color: rgba(213, 205, 205, 0.713);
+}
+
+
+/*Section Updates end*/
