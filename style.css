@@ -247,3 +247,29 @@ form input{
 
 
 /*Section Updates end*/
+
+/*Section footer Start*/
+.footer-aera{
+    background-color: black;
+    height: 120px;
+}
+
+
+.footer-text{
+ text-align: center;   
+}
+.footer-text h1{
+    font-family: 'Lobster', cursive;
+    padding-top: 35px;
+    color: red;
+    font-size: 28px;
+    font-weight: bold;
+}
+.footer-text p{
+    color: white;
+    font-size: 10px;
+    padding-bottom: 10px;
+}
+
+
+/*Section footer End*/
